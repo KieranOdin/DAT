@@ -1,7 +1,7 @@
 hey,hi,hello,oi,aloha,sup,yoo
 how are you?,how are you doing?
-bad,shit,fuck,unhappy,ugly,terrible,not good
-happy,good,thanks,beautiful,wonderful,fantastic,fabulous,fine,very well
+bad,shit,fuck,unhappy,ugly,terrible,not good,not
+happy,good,thanks,beautiful,wonderful,fantastic,fabulous,fine,very well,ok
 Im sorry to hear that,Hope you feel better soon,Well Fuck
 Im glad to hear that,Good for you,Fuck yea
 ye,yes,ya
